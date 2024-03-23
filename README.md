@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Minar Ahamed</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Minar Ahamed Niloy</h1>
+<h3 align="center">A passionate CSE Engineeer from Bangladesh</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
